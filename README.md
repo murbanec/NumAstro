@@ -1,0 +1,3 @@
+# NumAstro
+
+prvni prednaska
