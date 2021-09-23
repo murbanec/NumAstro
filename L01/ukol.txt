@@ -1,0 +1,6 @@
+Vezmete soubor kvadrce.c a modifikujte ho tak, aby:
+
+1) Parametry alfa, beta a gama byly nacitany z prikazove radky
+2) Pridejte cast, ktera vypise na obrazovku dva sloupce s hodnotami x a f(x)=alfa x^2 + beta x + gama takovym zpusobem, ze bude poznat na kterych intervalech se koreny nachazi
+3) Presmerujte vystup z obrazovky do souboru (alternativne muzete vypis do souboru zadat primo v programu)
+4) Vykreslete graf kvadraticke funkce vhodnym nastrojem (napr. gnuplot nebo python)
