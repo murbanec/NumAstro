@@ -1,6 +1,6 @@
-Vezmete soubor kvadrce.c a modifikujte ho tak, aby:
+Vezměte soubor kvadrce.c a modifikujte ho tak, aby:
 
-1) Parametry alfa, beta a gama byly nacitany z prikazove radky
-2) Pridejte cast, ktera vypise na obrazovku dva sloupce s hodnotami x a f(x)=alfa x^2 + beta x + gama takovym zpusobem, ze bude poznat na kterych intervalech se koreny nachazi
-3) Presmerujte vystup z obrazovky do souboru (alternativne muzete vypis do souboru zadat primo v programu)
-4) Vykreslete graf kvadraticke funkce vhodnym nastrojem (napr. gnuplot nebo python)
+1) Parametry alfa, beta a gama byly načítány z přikazové řádky při spuštění programy
+2) Přidejte část, která vypíše na obrazovku dva sloupce s hodnotami x a f(x)=alfa x^2 + beta x + gama takovým způsobem, že bude poznat na kterých intervalech se kořeny nachází
+3) Přesměrujte výstup z obrazovky do souboru (alternativně můžete výpis do souboru zadat přímo v programu)
+4) Vykreslete graf kvadratické funkce vhodným nástrojem (např. gnuplot nebo python)
