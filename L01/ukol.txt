@@ -4,3 +4,5 @@ Vezměte soubor kvadrce.c a modifikujte ho tak, aby:
 2) Přidejte část, která vypíše na obrazovku dva sloupce s hodnotami x a f(x)=alfa x^2 + beta x + gama takovým způsobem, že bude poznat na kterých intervalech se kořeny nachází
 3) Přesměrujte výstup z obrazovky do souboru (alternativně můžete výpis do souboru zadat přímo v programu)
 4) Vykreslete graf kvadratické funkce vhodným nástrojem (např. gnuplot nebo python)
+5) Podívejte se na dokumentaci knihovny gsl (https://www.gnu.org/software/gsl/doc/html/)
+6) Podívejte se na stránky kompilátoru gcc (https://gcc.gnu.org)
