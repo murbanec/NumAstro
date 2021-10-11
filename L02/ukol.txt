@@ -1,0 +1,6 @@
+Vezměte soubor LE.c a modifikujte ho tak, aby:
+
+1) Parametr n  byl načítán z příkazové řádky při spuštění programu
+2) Přidejte část, která vypíše na obrazovku tři sloupce s hodnotami xi, theta(xi) a - xi_1^2|theta'(xi_1)|
+3) Přesměrujte výstup z obrazovky do souboru (alternativně můžete výpis do souboru zadat přímo v programu)
+4) Vykreslete průběhy theta(xi) pro různé hodnoty parametru n
