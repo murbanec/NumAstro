@@ -1,6 +1,12 @@
 Vezměte soubor LE.c a modifikujte ho tak, aby:
 
-1) Parametr n  byl načítán z příkazové řádky při spuštění programu
-2) Přidejte část, která vypíše na obrazovku tři sloupce s hodnotami xi, theta(xi) a - xi_1^2|theta'(xi_1)|
-3) Přesměrujte výstup z obrazovky do souboru (alternativně můžete výpis do souboru zadat přímo v programu)
-4) Vykreslete průběhy theta(xi) pro různé hodnoty parametru n
+1) Přidejte část, která vypíše na obrazovku tři sloupce s hodnotami xi, theta(xi) a - xi_1^2|theta'(xi_1)|
+2) Přesměrujte výstup z obrazovky do souboru (alternativně můžete výpis do souboru zadat přímo v programu)
+3) Vykreslete průběhy theta(xi) pro různé hodnoty parametru n
+
+Úlohy ke zkoušce:
+1) Laneovu Embdenovu rovnici je možné řešit analyticky pro n=0, najděte takové řešení.
+2) Jakým hodnotám xi odpovídá situace theta(xi)=0.
+3) Modifikujte kód tak, aby řešil rovnici a ukládal její řešení (průběh theta(xi) od xi=0 po hodnotu, kde je theta(xi)=0). Srovnejte přesnost řešení s analytickým.
+4) Program pracuje s Eulerovou metodou, nahraďte ji metodou Runge Kutta čtvrtého řádu.
+5) Srovnejte přesnost výsledků získaných Eulerovou a RK metoduu pro stejné hodnoty dxi (srovnejte pro více hodnot dxi) . 
