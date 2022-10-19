@@ -1,6 +1,6 @@
-Vezměte soubor bondi.c a modifikujte ho tak, aby:
+Pomocí programu bondi.c splňte následující úlohy.
 
-1) Vyřešte úlohu pro lambda různé lambda_crit
+1) Vyřešte úlohu pro lambda různé od lambda_crit
 2) Vykreslete graf, který bude ekvivalentem grafu 2 z článku H. Bondi, On spherically symmetrical accretion, MNRAS, 1952
 
 Úlohy ke zkoušce:
