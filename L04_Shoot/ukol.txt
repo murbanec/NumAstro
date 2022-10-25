@@ -1,0 +1,11 @@
+Program shoot.c řeší okrajovou úlohu txv. shooting metodou. 
+
+Zobecněte program následujícím způsobem
+1) Hodnoty x1, y1 a x2, y2 budou obecné a zadá je uživatel
+2) Doplňte ověření, že y2_0 (první odhad y2) je pod požadovanou hodnotou y2
+
+Úkoly ke zkoušce
+1) Doplňte bisekci i pro vx_0
+2) Doplňte do diferenciálních rovnic vliv odporu prostředí. Pohybující se objekt považujte za kouli a odporovou sílu popište Stokesovým vztahem (F=6 \pi \eta r v) za \eta dosaďte viskozitu vzduchu (cca 10^-5 Pa.s) a vody (cca 10^-3 Pa.s)
+3) Doplňte výpis trajektorie do souboru
+4) Srovnejte trajektorie pro různé okrajové hodnoty a různé hodnoty viskozity (0, 10^-5, 10^-3)
